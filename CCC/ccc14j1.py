@@ -1,4 +1,5 @@
-#CCC 2014 J1
+#CCC '14 J1 - Triangle Times
+#@author TRS
 
 A=int(input()) #Input for first angle
 B=int(input()) #Input for second angle
