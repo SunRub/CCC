@@ -1,4 +1,5 @@
-#CCC 2019 J2
+#CCC '19 J2 - Time to Decompress
+#@author TRS
 
 L=int(input()) #L is the input
 linesL=[] #List of lines
