@@ -1,4 +1,5 @@
-#CCC 2019 J1
+#CCC '19 J1 - Winning Score
+#@author TRS
 
 a3=int(input()) #Team A 3 pointers
 a2=int(input()) #Team A 2 pointers
