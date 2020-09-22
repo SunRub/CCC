@@ -1,4 +1,5 @@
-#CCC 2019 J4-S1
+#CCC '19 S1 - Flipper
+#@author TRS
 
 flips=input() #Flips is the input
 TL=1 #Top left = 1
@@ -23,4 +24,3 @@ for flip in flips: #For each character in flips
         BR=temp #Bottom right becomes temporary (old bottom left)
 print("%i %i"%(TL,TR)) #Prints Top Left and Top Right
 print("%i %i"%(BL,BR)) #Prints Bottom Left and Bottom Right
-        
