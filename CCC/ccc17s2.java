@@ -4,7 +4,7 @@ import java.io.*;
  * CCC '17 S2 - High Tide, Low Tide
  * @author TRS
  */
-public class H2Q3 {
+public class ccc17s2 {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer st;
 	public static void main(String[] args) throws IOException {
